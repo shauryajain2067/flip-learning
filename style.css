@@ -1,0 +1,62 @@
+body{
+background-color:#a4acd7;
+}
+.main_title{
+    width:100%;
+    color:black;
+    background-color:darkcyan;
+    font-size:50px;
+    position:fixed;
+    top:0;
+    font-family:bold700;
+    height:100px;
+    margin-top:0;
+    font-weight:bold;
+}
+.link{
+    background-color:peachpuff;
+    color:white;
+}
+.title{
+    width:50%;
+    margin-right:10px;
+    background-color:#3e56ac;
+    font-size:30px;
+    color:white;
+}
+.para{
+    background-color:lightblue;
+    font-size:20px;
+    font-weight:bold;
+    width:50%;
+    margin-right:1px;
+    border:5px solid black;
+    box-shadow:5px 5px 5px black;
+    border-radius:15px;
+}
+.images{
+    border:3px solid black;
+    box-shadow:5px 5px 5px white;
+    width:250px;
+    height:300px;
+    margin-left:50px;
+    border-radius:15px;
+}
+#def,#highlands,#deccan{
+    display:inline-flex;
+    margin-left:300px;
+}
+.credits{
+    position:fixed;
+    bottom:0;
+    margin-bottom:0;
+    height:90px;
+    width:100%;
+    background-color:#9acddc;
+    font-size:20px;
+    text-align:center;
+    font-weight:bold;
+    color:black;
+    letter-spacing: 3px;
+    font-family:light300;
+}
